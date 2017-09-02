@@ -1,0 +1,12 @@
+{
+  "name": "http-peeper",
+  "version": "1.0.0",
+  "description": "HTTP/HTTPS protocol peeper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["https", "node", "sniffer", "MITM"],
+  "author": "sharkpp",
+  "license": "MIT"
+}
